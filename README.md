@@ -1,5 +1,7 @@
 # OFF SCRIPT
 
+[Live website](https://suryanshitomar.github.io/OFF-SCRIPT/)
+
 A statement-fashion storefront and customer journey analytics experiment. This portfolio project connects a complete shopping experience with an interactive marketing lab, making it possible to explore how acquisition sources and shopping behavior affect a conversion funnel.
 
 ## Experience
