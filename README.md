@@ -26,7 +26,7 @@ Open `dist/index.html` in a modern browser. For reliable browser-local storage, 
 
 The funnel counts unique sessions at each stage. Conversion is purchasing sessions divided by visiting sessions. Revenue sums demo purchase values; average order value is revenue divided by orders. All values are illustrative, stored only in the current browser, and resettable in the Lab. A new page load begins a new session. Refreshing clears the shopping bag. UTM source values instagram, google, and email are supported.
 
-Products, brand, and orders are fictional. Product graphics are CSS illustrations. The editorial hero photo is remotely loaded from Unsplash; fonts are loaded from Google Fonts, with local fallback fonts.
+Products, brand, and orders are fictional. Product graphics are CSS illustrations. The editorial hero photo is from Unsplash and bundled locally in `dist/assets`; fonts are loaded from Google Fonts, with local fallback fonts.
 
 ## Public deployment
 
