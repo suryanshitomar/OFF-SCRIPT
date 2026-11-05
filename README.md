@@ -1,4 +1,4 @@
-# OFF SCRIPT
+# OFF SCRIPT Website (Customer Journey Analytics)
 
 [Live website](https://suryanshitomar.github.io/OFF-SCRIPT/)
 
